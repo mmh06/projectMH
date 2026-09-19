@@ -7,6 +7,10 @@ ul.topUL {
   display: inline-block;
   text-align: left;
 }
+#font-color-demo{
+  color: blue;
+}
+
 
 /*h1 {
   position: absolute;
