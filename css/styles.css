@@ -26,12 +26,7 @@ ul.topUL {
 .class-demo {
   font-family: "Brush Script MT", "Lucida Handwriting", cursive;
  font-size: 200%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-display: flex;
-  justify-content: center;
-  align-items: center;
+  color: blue;
 }
 
 
