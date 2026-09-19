@@ -18,6 +18,11 @@ ul.topUL {
   
   font-family: "Brush Script MT", "Lucida Handwriting", cursive;
 }
+#text-align-demo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /*h1 {
   position: absolute;
   left: 40px;
