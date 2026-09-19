@@ -31,7 +31,10 @@ ul.topUL {
 .resize-demo {
   font-size: 5vw; /* Text scales up or down as the window resizes */
 }
-
+.border-demo {
+  border-style: solid;
+  border-color: red;
+}
 
 /*h1 {
   position: absolute;
