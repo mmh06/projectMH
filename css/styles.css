@@ -35,6 +35,10 @@ ul.topUL {
   border-style: solid;
   border-color: red;
 }
+.box {
+  width: 50%;
+  margin-left: 25%;
+}
 
 /*h1 {
   position: absolute;
