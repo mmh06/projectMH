@@ -1,11 +1,12 @@
+h1, h2, h3, h4, h5, h6  {
+  text-align: center;
+}
 
-h1, h2, h3, h4, h5, h6 {
+#top-nav  {
   text-align: center;
 }
-#top-nav {
-  text-align: center;
-}
-#top-nav ul.topUL {
+
+#top-nav ul.topUL  {
   display: inline-block;
   text-align: center;
 }
