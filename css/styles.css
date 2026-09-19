@@ -3,7 +3,7 @@
   text-align: center;
 }
 
-ul.topUL {
+#top-nav ul.topUL {
   display: inline-block;
   text-align: left;
 }
