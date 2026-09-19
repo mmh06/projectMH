@@ -28,6 +28,9 @@ ul.topUL {
  font-size: 200%;
   color: blue;
 }
+.resize-demo {
+  font-size: 5vw; /* Text scales up or down as the window resizes */
+}
 
 
 /*h1 {
