@@ -23,6 +23,15 @@ ul.topUL {
   justify-content: center;
   align-items: center;
 }
+.class-demo {
+  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+ font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
 /*h1 {
   position: absolute;
   left: 40px;
