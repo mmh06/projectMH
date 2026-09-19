@@ -25,7 +25,7 @@ ul.topUL {
 }
 .class-demo {
   font-family: "Brush Script MT", "Lucida Handwriting", cursive;
- font-size: large;
+ font-size: 6em;
   display: flex;
   justify-content: center;
   align-items: center;
