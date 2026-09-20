@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
 }
-li{
+li {
   border: 3px solid;
   border-image: repeating-linear-gradient(
     45deg,
