@@ -78,9 +78,8 @@
   color: #333;
 }
 .responsive-bounded-img {
-  width: 50%;
-  min-width: 25%;
-  max-width: 75%;
+  width: 100%;
+  
   height: auto;
   display: block; /* Optional: prevents extra bottom spacing */
 }
