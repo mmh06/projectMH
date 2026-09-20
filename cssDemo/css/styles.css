@@ -77,6 +77,14 @@
   background-color: #ccc;
   color: #333;
 }
+.responsive-bounded-img {
+  width: 50%;
+  min-width: 25%;
+  max-width: 75%;
+  height: auto;
+  display: block; /* Optional: prevents extra bottom spacing */
+}
+
 /*h1 {
   position: absolute;
   left: 40px;
