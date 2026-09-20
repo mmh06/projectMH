@@ -18,7 +18,8 @@ h3 {
 .titular{
   font-weight: bold;
   font-style: italic;
-  font-family: 'Recursive';font-size: 22px;
+  font-family: "Lucida Handwriting", "Courier New", monospace;
+  
 }
 
 #footwrap {
