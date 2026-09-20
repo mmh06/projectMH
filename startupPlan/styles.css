@@ -56,3 +56,18 @@ h1, h2, h3, h4, h5, h6  {
   display: inline-block;
   text-align: center;
 }
+/* 1. Center the image container on the page */
+.image-container {
+  display: flex;
+  justify-content: center; /* Horizontally centers the image */
+  align-items: center;     /* Vertically centers the image */
+  min-height: 100vh;       /* Gives the container full screen height for vertical alignment */
+}
+
+/* 2. Make the image a perfect circle */
+.circular-image {
+  width: 200px;
+  height: 200px;           /* Must be equal to width to form a square */
+  border-radius: 50%;      /* Blends the square edges into a perfect circle */
+  object-fit: cover;       /* Keeps the original aspect ratio so the image isn't squished */
+}
