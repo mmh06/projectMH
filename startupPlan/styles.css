@@ -10,6 +10,7 @@ body {
 }
 body {
   /* The image used */
+  color: white;
   background-image: url("images/DroneButler.png");
 
   /* Full height */
