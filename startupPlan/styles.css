@@ -10,7 +10,8 @@ body {
 }
 body {
   /* The image used */
-  color: white;
+  background-color: var(--surface-primary);
+  color: contrast-color(var(--surface-primary));
   background-image: url("images/DroneButler.png");
 
   /* Full height */
