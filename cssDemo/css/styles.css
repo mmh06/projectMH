@@ -29,7 +29,7 @@
   color: blue;
 }
 .resize-demo {
-  font-size: 5vw; /* Text scales up or down as the window resizes */
+  font-size: 5vw; 
 }
 .border-demo {
   border-style: solid;
@@ -81,44 +81,7 @@
   width: 100%;
   
   height: auto;
-  display: block; /* Optional: prevents extra bottom spacing */
-}
-
-/*h1 {
-  position: absolute;
-  left: 40px;
-  top:15px;
-  font-size: 200%;
-  font-family: 'Devonshire', cursive;
-  color: #E35335;
+  display: block; 
 }
 
 
-#main-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  float: left;
-  position: relative;
-  left:50%;
-}
-
-
-
-#main-nav ul li {
-  float: left;
-  position: relative;
-  right: 50%;
-}
-
-#main-nav ul li a {
-  padding: 10px 25px;
-  display: block;
-  text-decoration: none;
-  color: #ccc;
-}
-
-#main-nav ul li a:hover {
-  background-color: #ccc;
-  color: #333;
-*/
