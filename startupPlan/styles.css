@@ -7,6 +7,17 @@ body {
   margin: 0;
   padding: 0;
 }
+p {
+  border: 10px solid;
+  border-image: repeating-linear-gradient(
+    45deg,
+    #3498db,
+    #3498db 10px,
+    #f1c40f 10px,
+    #f1c40f 20px
+  ) 1;
+}
+
 
 h1, h2, h3, h4, h5, h6  {
   text-align: center;
