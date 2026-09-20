@@ -126,3 +126,14 @@ body {
   list-style-type: none; 
   padding: 0;
 }
+/* CSS */
+.flex-list {
+  display: flex;
+  flex-wrap: wrap; /* Allows items to break to the next row */
+  padding: 0;
+}
+
+.flex-list li {
+  flex: 0 0 33.33%; /* 3 columns (100% / 3) */
+  box-sizing: border-box;
+}
