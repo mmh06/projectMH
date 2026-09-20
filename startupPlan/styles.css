@@ -12,9 +12,9 @@ li {
   border-image: repeating-linear-gradient(
     45deg,
     #3498db,
-    #3498db 10px,
-    #f1c40f 10px,
-    #f1c40f 20px
+    #3498db 03px,
+    #f1c40f 03px,
+    #f1c40f 06px
   ) 1;
 }
 
