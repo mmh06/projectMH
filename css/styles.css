@@ -7,6 +7,11 @@ h3 {
   border-top: 2px solid green;
   border-bottom: 2px solid green;
 }
+.titular{
+  font-weight: bold;
+  font-style: italic;
+}
+
 #footwrap {
   text-align: center;
 }
