@@ -93,3 +93,22 @@ h3 {
   background-color: #ccc;
   color: #333;
 }
+body {
+  /*  
+  background-color: var(--surface-primary);
+  color: contrast-color(var(--surface-primary));*/
+  background-image: url("images/resume-image.png");
+
+  /* Full height */
+  min-height: 100vh;
+
+  /* Center the image and prevent repeating */
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* Scale the image to cover the entire screen */
+  background-size: cover;
+
+  /* Optional: keeps the background fixed during scroll */
+  background-attachment: fixed;
+}
