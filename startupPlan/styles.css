@@ -60,8 +60,8 @@ h1, h2, h3, h4, h5, h6  {
 .image-container {
   display: flex;
   justify-content: center; /* Horizontally centers the image */
-  align-items: center;     /* Vertically centers the image */
-  min-height: 100vh;       /* Gives the container full screen height for vertical alignment */
+  
+
 }
 
 /* 2. Make the image a perfect circle */
