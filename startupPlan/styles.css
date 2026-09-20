@@ -11,10 +11,10 @@ li {
   border: 3px solid;
   border-image: repeating-linear-gradient(
     45deg,
-    #3498db,
-    #3498db 03px,
-    #f1c40f 03px,
-    #f1c40f 06px
+    #e3dcdc,
+    #e3dcdc 03px,
+    #120202 03px,
+    #120202 06px
   ) 1;
 }
 
