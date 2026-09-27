@@ -239,7 +239,7 @@ body {
 /* startupplan demo 
 
 
-body {
+#splan {
   
   font-family: 'Orbitron', sans-serif;
   color: #333333;
@@ -249,7 +249,7 @@ body {
   color: white;
   -webkit-text-stroke: 2px #ff4500; 
 }
-body {
+#splan {
   
   background-image: url("images/DroneButler.png");
 
