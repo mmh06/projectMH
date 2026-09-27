@@ -1,1 +1,0 @@
-creating folded to store images 
